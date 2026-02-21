@@ -12,3 +12,7 @@ I was on `cmake` version 4.0. Pre-reqs on macOS was installed with
 
 
 
+
+## Pico standalone power + Wi-Fi kit
+
+See `pico_standalone_wifi/README.md` for a 3-device bring-up kit (independent power + Wi-Fi auto-connect + heartbeat verification).
