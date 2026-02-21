@@ -1,0 +1,11 @@
+# Copy to node_config.py on each Pico and edit values.
+
+CONFIG = {
+    "NODE_ID": "pico1",
+    "WIFI_SSID": "YOUR_WIFI_SSID",
+    "WIFI_PASSWORD": "YOUR_WIFI_PASSWORD",
+    "WIFI_TIMEOUT_S": 20,
+    "SERVER_HOST": "192.168.1.100",  # laptop/server IP
+    "SERVER_PORT": 9000,
+    "HEARTBEAT_INTERVAL_S": 2,
+}
