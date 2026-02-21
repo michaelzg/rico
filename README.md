@@ -12,3 +12,13 @@ I was on `cmake` version 4.0. Pre-reqs on macOS was installed with
 
 
 
+
+## Raft KV demo (3x Pico 2W)
+
+A full Raft learning demo is in `raft_kv_demo/` with:
+- coordinator relay server
+- node implementation
+- MicroPython Pico node script
+- local smoke test
+
+Start here: `raft_kv_demo/README.md`.
